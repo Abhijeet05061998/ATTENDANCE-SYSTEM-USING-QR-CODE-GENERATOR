@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QR Attendance</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="prompt">Select Current Period</string>
+
+    <string-array name="spin">
+        <item>p1</item>
+        <item>p2</item>
+        <item>p3</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+    </string-array>
+
+    <string-array name="classes">
+        <item>CSE</item>
+        <item>IT</item>
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>CIVIL</item>
+        <item>PRODUCTION</item>
+    </string-array>
+</resources>

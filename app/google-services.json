@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26130592735",
+    "firebase_url": "https://qr-attendance-4ad76.firebaseio.com",
+    "project_id": "qr-attendance-4ad76",
+    "storage_bucket": "qr-attendance-4ad76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26130592735:android:73ed91e091c5f480be4a6a",
+        "android_client_info": {
+          "package_name": "com.project.qrattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26130592735-crui0kg8lciqpfda91cubd9hhskm3bkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.qrattendance",
+            "certificate_hash": "bb1340d144e7d2fefe4f971c9768cac3df43c9c9"
+          }
+        },
+        {
+          "client_id": "26130592735-vf6jpqsld7frv09f4ic6t3520bgf5os2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOv8gO7-kd_GMtDL4T-fKAem1mqrC_XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26130592735-vf6jpqsld7frv09f4ic6t3520bgf5os2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
